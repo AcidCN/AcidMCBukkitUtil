@@ -1,0 +1,4 @@
+name: AcidMCBukkitUtil
+version: '${version}'
+main: cn.net.acid.acidmcbukkitutil.AcidMCBukkitUtil
+api-version: '1.19'
