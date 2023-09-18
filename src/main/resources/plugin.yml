@@ -1,4 +1,6 @@
 name: AcidMCBukkitUtil
 version: '${version}'
 main: cn.net.acid.acidmcbukkitutil.AcidMCBukkitUtil
-api-version: '1.19'
+api-version: 1.19
+authors: [ Acid ]
+description: Acid Minecraft Bukkit Util
